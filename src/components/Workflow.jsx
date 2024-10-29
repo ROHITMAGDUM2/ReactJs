@@ -6,7 +6,7 @@ import { checklistItems } from "../constants";
 const Workflow = () => {
   return (
     <div className="mt-20">
-      <h2 className="text-3xl sm:text-5xl lg:text-6xl text-center mt-6 tracking-wide">
+      <h2 className="text-3xl sm:text-5xl lg:text-6xl text-center mt-6 mx-15 tracking-wide">
         Accelerate your
         <span className="bg-gradient-to-r from-orange-500 to-orange-800 bg-clip-text text-transparent">
           {" "}
